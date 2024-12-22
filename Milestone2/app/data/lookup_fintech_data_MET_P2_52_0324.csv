@@ -1,0 +1,65 @@
+Column,Original,Encoded
+emp_length,< 1 year,0.5
+emp_length,1 year,1
+emp_length,2 years,2
+emp_length,3 years,3
+emp_length,4 years,4
+emp_length,5 years,5
+emp_length,6 years,6
+emp_length,7 years,7
+emp_length,8 years,8
+emp_length,9 years,9
+emp_length,10+ years,10
+term,36 months,36
+term,60 months,60
+type,INDIVIDUAL,individual
+type,JOINT,joint
+type,Joint App,joint
+type,DIRECT_PAY,direct_pay
+pymnt_plan,False,0
+pymnt_plan,True,1
+annual_inc_joint,,Value from col annual_inc
+emp_title,,missing
+description,,No description provided
+grade,1,A
+grade,2,A
+grade,3,A
+grade,4,A
+grade,5,A
+grade,6,B
+grade,7,B
+grade,8,B
+grade,9,B
+grade,10,B
+grade,11,C
+grade,12,C
+grade,13,C
+grade,14,C
+grade,15,C
+grade,16,D
+grade,17,D
+grade,18,D
+grade,19,D
+grade,20,D
+grade,21,E
+grade,22,E
+grade,23,E
+grade,24,E
+grade,25,E
+grade,26,F
+grade,27,F
+grade,28,F
+grade,29,F
+grade,30,F
+grade,31,G
+grade,32,G
+grade,33,G
+grade,34,G
+grade,35,G
+letter_grade,A,0
+letter_grade,B,1
+letter_grade,C,2
+letter_grade,D,3
+letter_grade,E,4
+letter_grade,F,5
+letter_grade,G,6

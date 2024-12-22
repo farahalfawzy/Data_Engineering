@@ -1,0 +1,13 @@
+pandas
+matplotlib
+scipy
+seaborn
+numpy
+scikit-learn
+requests
+beautifulsoup4
+psycopg2-binary
+SQLAlchemy
+docker
+kafka-python
+

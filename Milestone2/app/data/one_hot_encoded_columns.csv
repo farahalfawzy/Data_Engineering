@@ -1,0 +1,51 @@
+customer_id
+emp_title
+emp_length
+annual_inc
+annual_inc_joint
+zip_code
+addr_state
+avg_cur_bal
+tot_cur_bal
+loan_amount
+state
+funded_amount
+term
+int_rate
+issue_date
+pymnt_plan
+description
+month_number
+salary_can_cover
+installment_per_month
+home_ownership_ANY
+home_ownership_MORTGAGE
+home_ownership_OWN
+home_ownership_RENT
+verification_status_Not Verified
+verification_status_Source Verified
+verification_status_Verified
+loan_status_Charged Off
+loan_status_Current
+loan_status_Default
+loan_status_Fully Paid
+loan_status_In Grace Period
+loan_status_Late (16-30 days)
+loan_status_Late (31-120 days)
+type_direct_pay
+type_individual
+type_joint
+purpose_car
+purpose_credit_card
+purpose_debt_consolidation
+purpose_home_improvement
+purpose_house
+purpose_major_purchase
+purpose_medical
+purpose_moving
+purpose_other
+purpose_renewable_energy
+purpose_small_business
+purpose_vacation
+purpose_wedding
+letter_grade_encoded
