@@ -49,7 +49,7 @@ The project demonstrates essential data engineering concepts, including data cle
 - **Objective:** Develop an ETL pipeline and create an interactive dashboard.
 - **Key Tasks:**
   - Implement an ETL pipeline using Apache Airflow.
-  - Build a dashboard using Plotly Dash or Streamlit for insights.
+  - Build a dashboard using Streamlit for insights.
   - Integrate the dashboard with the ETL pipeline.
 
 ## Technologies Used
